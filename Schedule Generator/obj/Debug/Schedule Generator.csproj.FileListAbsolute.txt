@@ -1,0 +1,11 @@
+C:\Users\Hedi\OneDrive - Vanier College\Desktop\Schedule Generator\bin\Debug\Schedule Generator.exe.config
+C:\Users\Hedi\OneDrive - Vanier College\Desktop\Schedule Generator\bin\Debug\Schedule Generator.exe
+C:\Users\Hedi\OneDrive - Vanier College\Desktop\Schedule Generator\bin\Debug\Schedule Generator.pdb
+C:\Users\Hedi\OneDrive - Vanier College\Desktop\Schedule Generator\obj\Debug\Schedule Generator.csproj.AssemblyReference.cache
+C:\Users\Hedi\OneDrive - Vanier College\Desktop\Schedule Generator\obj\Debug\Schedule Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hedi\OneDrive - Vanier College\Desktop\Schedule Generator\obj\Debug\Schedule_Generator.Main.resources
+C:\Users\Hedi\OneDrive - Vanier College\Desktop\Schedule Generator\obj\Debug\Schedule_Generator.Properties.Resources.resources
+C:\Users\Hedi\OneDrive - Vanier College\Desktop\Schedule Generator\obj\Debug\Schedule Generator.csproj.GenerateResource.cache
+C:\Users\Hedi\OneDrive - Vanier College\Desktop\Schedule Generator\obj\Debug\Schedule Generator.csproj.CoreCompileInputs.cache
+C:\Users\Hedi\OneDrive - Vanier College\Desktop\Schedule Generator\obj\Debug\Schedule Generator.exe
+C:\Users\Hedi\OneDrive - Vanier College\Desktop\Schedule Generator\obj\Debug\Schedule Generator.pdb
