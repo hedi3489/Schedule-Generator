@@ -1,0 +1,7 @@
+C:\Users\jimmy\OneDrive\Desktop\Schedule-Generator\Schedule Generator\obj\Debug\finalprojectgui.csproj.AssemblyReference.cache
+C:\Users\jimmy\OneDrive\Desktop\Schedule-Generator\Schedule Generator\obj\Debug\finalprojectgui.Form1.resources
+C:\Users\jimmy\OneDrive\Desktop\Schedule-Generator\Schedule Generator\obj\Debug\finalprojectgui.Form2.resources
+C:\Users\jimmy\OneDrive\Desktop\Schedule-Generator\Schedule Generator\obj\Debug\finalprojectgui.Form3.resources
+C:\Users\jimmy\OneDrive\Desktop\Schedule-Generator\Schedule Generator\obj\Debug\finalprojectgui.Properties.Resources.resources
+C:\Users\jimmy\OneDrive\Desktop\Schedule-Generator\Schedule Generator\obj\Debug\finalprojectgui.csproj.GenerateResource.cache
+C:\Users\jimmy\OneDrive\Desktop\Schedule-Generator\Schedule Generator\obj\Debug\finalprojectgui.csproj.CoreCompileInputs.cache
