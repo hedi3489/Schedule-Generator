@@ -1,0 +1,30 @@
+C:\MidtermReview\MidtermReview\bin\Debug\MidtermReview.exe.config
+C:\MidtermReview\MidtermReview\bin\Debug\MidtermReview.exe
+C:\MidtermReview\MidtermReview\bin\Debug\MidtermReview.pdb
+C:\MidtermReview\MidtermReview\obj\Debug\MidtermReview.GUI.FormTeacher.resources
+C:\MidtermReview\MidtermReview\obj\Debug\MidtermReview.Properties.Resources.resources
+C:\MidtermReview\MidtermReview\obj\Debug\MidtermReview.csproj.GenerateResource.Cache
+C:\MidtermReview\MidtermReview\obj\Debug\MidtermReview.exe
+C:\MidtermReview\MidtermReview\obj\Debug\MidtermReview.pdb
+C:\MidtermReview\MidtermReview\obj\Debug\MidtermReview.csprojResolveAssemblyReference.cache
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\bin\Debug\MidtermReview.exe.config
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\bin\Debug\MidtermReview.exe
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\bin\Debug\MidtermReview.pdb
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\obj\Debug\MidtermReview.csprojAssemblyReference.cache
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\obj\Debug\MidtermReview.GUI.FormTeacher.resources
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\obj\Debug\MidtermReview.Properties.Resources.resources
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\obj\Debug\MidtermReview.csproj.GenerateResource.cache
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\obj\Debug\MidtermReview.csproj.CoreCompileInputs.cache
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\obj\Debug\MidtermReview.exe
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\obj\Debug\MidtermReview.pdb
+C:\Users\alex\Desktop\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\bin\Debug\MidtermReview.exe.config
+C:\Users\alex\Desktop\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\bin\Debug\MidtermReview.exe
+C:\Users\alex\Desktop\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\bin\Debug\MidtermReview.pdb
+C:\Users\alex\Desktop\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\obj\Debug\MidtermReview.csproj.AssemblyReference.cache
+C:\Users\alex\Desktop\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\obj\Debug\MidtermReview.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex\Desktop\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\obj\Debug\MidtermReview.GUI.FormTeacher.resources
+C:\Users\alex\Desktop\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\obj\Debug\MidtermReview.Properties.Resources.resources
+C:\Users\alex\Desktop\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\obj\Debug\MidtermReview.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\obj\Debug\MidtermReview.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\obj\Debug\MidtermReview.exe
+C:\Users\alex\Desktop\In Class Lab\Practice 9 MidtermReview\MidtermReview\MidtermReview\obj\Debug\MidtermReview.pdb

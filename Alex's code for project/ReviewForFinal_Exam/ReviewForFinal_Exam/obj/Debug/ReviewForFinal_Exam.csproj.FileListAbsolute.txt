@@ -1,0 +1,34 @@
+C:\CT2_W2021\ReviewForFinal_Exam\ReviewForFinal_Exam\bin\Debug\ReviewForFinal_Exam.exe.config
+C:\CT2_W2021\ReviewForFinal_Exam\ReviewForFinal_Exam\bin\Debug\ReviewForFinal_Exam.exe
+C:\CT2_W2021\ReviewForFinal_Exam\ReviewForFinal_Exam\bin\Debug\ReviewForFinal_Exam.pdb
+C:\CT2_W2021\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.csprojAssemblyReference.cache
+C:\CT2_W2021\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.GUI.FormCourseAssignment.resources
+C:\CT2_W2021\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.FormLogIn.resources
+C:\CT2_W2021\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.Properties.Resources.resources
+C:\CT2_W2021\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.csproj.GenerateResource.cache
+C:\CT2_W2021\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.csproj.CoreCompileInputs.cache
+C:\CT2_W2021\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.exe
+C:\CT2_W2021\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.pdb
+C:\CT2\ReviewForFinal_Exam\ReviewForFinal_Exam\bin\Debug\ReviewForFinal_Exam.exe.config
+C:\CT2\ReviewForFinal_Exam\ReviewForFinal_Exam\bin\Debug\ReviewForFinal_Exam.exe
+C:\CT2\ReviewForFinal_Exam\ReviewForFinal_Exam\bin\Debug\ReviewForFinal_Exam.pdb
+C:\CT2\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.csprojAssemblyReference.cache
+C:\CT2\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.GUI.FormCourseAssignment.resources
+C:\CT2\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.FormLogIn.resources
+C:\CT2\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.Properties.Resources.resources
+C:\CT2\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.csproj.GenerateResource.cache
+C:\CT2\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.csproj.CoreCompileInputs.cache
+C:\CT2\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.exe
+C:\CT2\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.pdb
+C:\Users\alex\Desktop\In-class Labs\ReviewForFinal_Exam_V2\ReviewForFinal_Exam\ReviewForFinal_Exam\bin\Debug\ReviewForFinal_Exam.exe.config
+C:\Users\alex\Desktop\In-class Labs\ReviewForFinal_Exam_V2\ReviewForFinal_Exam\ReviewForFinal_Exam\bin\Debug\ReviewForFinal_Exam.exe
+C:\Users\alex\Desktop\In-class Labs\ReviewForFinal_Exam_V2\ReviewForFinal_Exam\ReviewForFinal_Exam\bin\Debug\ReviewForFinal_Exam.pdb
+C:\Users\alex\Desktop\In-class Labs\ReviewForFinal_Exam_V2\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.csproj.AssemblyReference.cache
+C:\Users\alex\Desktop\In-class Labs\ReviewForFinal_Exam_V2\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex\Desktop\In-class Labs\ReviewForFinal_Exam_V2\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.GUI.FormCourseAssignment.resources
+C:\Users\alex\Desktop\In-class Labs\ReviewForFinal_Exam_V2\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.FormLogIn.resources
+C:\Users\alex\Desktop\In-class Labs\ReviewForFinal_Exam_V2\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.Properties.Resources.resources
+C:\Users\alex\Desktop\In-class Labs\ReviewForFinal_Exam_V2\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\In-class Labs\ReviewForFinal_Exam_V2\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\In-class Labs\ReviewForFinal_Exam_V2\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.exe
+C:\Users\alex\Desktop\In-class Labs\ReviewForFinal_Exam_V2\ReviewForFinal_Exam\ReviewForFinal_Exam\obj\Debug\ReviewForFinal_Exam.pdb

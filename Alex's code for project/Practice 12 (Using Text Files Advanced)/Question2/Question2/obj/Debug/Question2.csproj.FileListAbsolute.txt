@@ -1,0 +1,57 @@
+C:\Question2\Question2\bin\Debug\Question2.exe.config
+C:\Question2\Question2\obj\Debug\Question2.csprojResolveAssemblyReference.cache
+C:\Question2\Question2\obj\Debug\Question2.GUI.CustomerForm.resources
+C:\Question2\Question2\obj\Debug\Question2.Properties.Resources.resources
+C:\Question2\Question2\obj\Debug\Question2.csproj.GenerateResource.Cache
+C:\Question2\Question2\bin\Debug\Question2.exe
+C:\Question2\Question2\bin\Debug\Question2.pdb
+C:\Question2\Question2\obj\Debug\Question2.exe
+C:\Question2\Question2\obj\Debug\Question2.pdb
+C:\Question2\Question2\Question2\bin\Debug\Question2.exe.config
+C:\Question2\Question2\Question2\obj\Debug\Question2.exe
+C:\Question2\Question2\Question2\obj\Debug\Question2.pdb
+C:\Question2\Question2\Question2\bin\Debug\Question2.exe
+C:\Question2\Question2\Question2\bin\Debug\Question2.pdb
+C:\Question2\Question2\Question2\obj\Debug\Question2.csprojResolveAssemblyReference.cache
+C:\Question2\Question2\Question2\obj\Debug\Question2.GUI.CustomerForm.resources
+C:\Question2\Question2\Question2\obj\Debug\Question2.Properties.Resources.resources
+C:\Question2\Question2\Question2\obj\Debug\Question2.csproj.GenerateResource.Cache
+C:\Users\titanCao\Desktop\Winter 2017\P25_7056\Labs\Lab3_WorkingWithTextFiles\Question2\Question2\Question2\Question2\bin\Debug\Question2.exe.config
+C:\Users\titanCao\Desktop\Winter 2017\P25_7056\Labs\Lab3_WorkingWithTextFiles\Question2\Question2\Question2\Question2\obj\Debug\Question2.exe
+C:\Users\titanCao\Desktop\Winter 2017\P25_7056\Labs\Lab3_WorkingWithTextFiles\Question2\Question2\Question2\Question2\obj\Debug\Question2.pdb
+C:\Users\titanCao\Desktop\Winter 2017\P25_7056\Labs\Lab3_WorkingWithTextFiles\Question2\Question2\Question2\Question2\bin\Debug\Question2.exe
+C:\Users\titanCao\Desktop\Winter 2017\P25_7056\Labs\Lab3_WorkingWithTextFiles\Question2\Question2\Question2\Question2\bin\Debug\Question2.pdb
+C:\Users\titanCao\Desktop\Winter 2017\P25_7056\Labs\Lab3_WorkingWithTextFiles\Question2\Question2\Question2\Question2\obj\Debug\Question2.csprojResolveAssemblyReference.cache
+C:\Users\titanCao\Desktop\Winter 2017\P25_7056\Labs\Lab3_WorkingWithTextFiles\Question2\Question2\Question2\Question2\obj\Debug\Question2.GUI.CustomerForm.resources
+C:\Users\titanCao\Desktop\Winter 2017\P25_7056\Labs\Lab3_WorkingWithTextFiles\Question2\Question2\Question2\Question2\obj\Debug\Question2.Properties.Resources.resources
+C:\Users\titanCao\Desktop\Winter 2017\P25_7056\Labs\Lab3_WorkingWithTextFiles\Question2\Question2\Question2\Question2\obj\Debug\Question2.csproj.GenerateResource.Cache
+C:\Users\titanCao\Desktop\Question2\Question2\bin\Debug\Question2.exe.config
+C:\Users\titanCao\Desktop\Question2\Question2\obj\Debug\Question2.exe
+C:\Users\titanCao\Desktop\Question2\Question2\obj\Debug\Question2.pdb
+C:\Users\titanCao\Desktop\Question2\Question2\bin\Debug\Question2.exe
+C:\Users\titanCao\Desktop\Question2\Question2\bin\Debug\Question2.pdb
+C:\Users\titanCao\Desktop\Question2\Question2\obj\Debug\Question2.csprojResolveAssemblyReference.cache
+C:\Users\titanCao\Desktop\Question2\Question2\obj\Debug\Question2.GUI.CustomerForm.resources
+C:\Users\titanCao\Desktop\Question2\Question2\obj\Debug\Question2.Properties.Resources.resources
+C:\Users\titanCao\Desktop\Question2\Question2\obj\Debug\Question2.csproj.GenerateResource.Cache
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\bin\Debug\Question2.exe.config
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\bin\Debug\Question2.exe
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\bin\Debug\Question2.pdb
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\obj\Debug\Question2.csprojAssemblyReference.cache
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\obj\Debug\Question2.GUI.CustomerForm.resources
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\obj\Debug\Question2.Properties.Resources.resources
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\obj\Debug\Question2.csproj.GenerateResource.cache
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\obj\Debug\Question2.exe
+C:\Particular\LaSalle College\Professor\Courses\420-CT2-ASCO_Object_Oriented_Programming_Concepts (C#)\Cao\OOP_2\OOP\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\obj\Debug\Question2.pdb
+C:\Users\alex\Desktop\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\bin\Debug\Question2.exe.config
+C:\Users\alex\Desktop\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\bin\Debug\Question2.exe
+C:\Users\alex\Desktop\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\bin\Debug\Question2.pdb
+C:\Users\alex\Desktop\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\obj\Debug\Question2.csproj.AssemblyReference.cache
+C:\Users\alex\Desktop\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\obj\Debug\Question2.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex\Desktop\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\obj\Debug\Question2.GUI.CustomerForm.resources
+C:\Users\alex\Desktop\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\obj\Debug\Question2.Properties.Resources.resources
+C:\Users\alex\Desktop\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\obj\Debug\Question2.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\obj\Debug\Question2.exe
+C:\Users\alex\Desktop\In Class Lab\Practice 12 (Using Text Files Advanced)\Question2\Question2\obj\Debug\Question2.pdb

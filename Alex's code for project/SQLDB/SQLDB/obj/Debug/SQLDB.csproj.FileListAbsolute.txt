@@ -1,0 +1,11 @@
+C:\Users\alex\source\repos\SQLDB\SQLDB\bin\Debug\SQLDB.exe.config
+C:\Users\alex\source\repos\SQLDB\SQLDB\bin\Debug\SQLDB.exe
+C:\Users\alex\source\repos\SQLDB\SQLDB\bin\Debug\SQLDB.pdb
+C:\Users\alex\source\repos\SQLDB\SQLDB\obj\Debug\SQLDB.csproj.AssemblyReference.cache
+C:\Users\alex\source\repos\SQLDB\SQLDB\obj\Debug\SQLDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex\source\repos\SQLDB\SQLDB\obj\Debug\SQLDB.Form1.resources
+C:\Users\alex\source\repos\SQLDB\SQLDB\obj\Debug\SQLDB.Properties.Resources.resources
+C:\Users\alex\source\repos\SQLDB\SQLDB\obj\Debug\SQLDB.csproj.GenerateResource.cache
+C:\Users\alex\source\repos\SQLDB\SQLDB\obj\Debug\SQLDB.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\SQLDB\SQLDB\obj\Debug\SQLDB.exe
+C:\Users\alex\source\repos\SQLDB\SQLDB\obj\Debug\SQLDB.pdb
