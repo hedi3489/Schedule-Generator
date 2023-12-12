@@ -24,7 +24,13 @@ namespace finalprojectgui
 
         private void button1_Click(object sender, EventArgs e)
         {
+            DashBoardPage form1 = new DashBoardPage();
 
+            // Show Form1
+            form1.Show();
+
+            // Optionally, close Form2
+            this.Close();
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)

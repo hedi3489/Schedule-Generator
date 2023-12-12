@@ -16,13 +16,21 @@ namespace finalprojectgui
         public DashBoardPage()
         {
             InitializeComponent();
-            label1.BackColor = Color.Transparent;
-            label1.ForeColor = ColorTranslator.FromHtml("#3797E6");
-            button1.BackColor = ColorTranslator.FromHtml("#3797E6");
+
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
+            try
+            {
+                TeacherViewSchedule form1 = new TeacherViewSchedule();
+                form1.Show();
+                this.Hide();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"An error occurred: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
 
         }
 
@@ -33,7 +41,13 @@ namespace finalprojectgui
 
         private void button2_Click(object sender, EventArgs e)
         {
+            EditAddTeacher form123 = new EditAddTeacher();
 
+            // Show Form1
+            form123.Show();
+
+            // Optionally, close Form2
+            this.Hide();
         }
     }
 }

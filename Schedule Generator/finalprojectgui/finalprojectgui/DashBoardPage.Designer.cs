@@ -41,7 +41,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(240, 162);
             this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
+            this.button1.Text = "View Teacher List";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -53,7 +53,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(240, 162);
             this.button2.TabIndex = 1;
-            this.button2.Text = "button2";
+            this.button2.Text = "Edit / Add Teacher";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -66,7 +66,7 @@
             this.label1.ForeColor = System.Drawing.Color.SteelBlue;
             this.label1.Location = new System.Drawing.Point(211, 160);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(683, 56);
+            this.label1.Size = new System.Drawing.Size(540, 44);
             this.label1.TabIndex = 2;
             this.label1.Text = "Ecole Charle Perrault";
             // 

@@ -26,5 +26,43 @@ namespace finalprojectgui
         {
 
         }
+
+        private void Dashboard_Click(object sender, EventArgs e)
+        {
+            DashBoardPage form1 = new DashBoardPage();
+
+            // Show Form1
+            form1.Show();
+
+            // Optionally, close Form2
+            this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            EditAddTeacher form1 = new EditAddTeacher();
+
+            // Show Form1
+            form1.Show();
+
+            // Optionally, close Form2
+            this.Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            LogInPage form1 = new LogInPage();
+
+            // Show Form1
+            form1.Show();
+
+            // Optionally, close Form2
+            this.Hide();
+        }
     }
 }

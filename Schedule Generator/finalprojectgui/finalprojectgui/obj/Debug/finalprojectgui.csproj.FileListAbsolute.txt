@@ -21,3 +21,16 @@ C:\Users\jimmy\OneDrive\Desktop\Schedule-Generator\finalprojectgui\finalprojectg
 C:\Users\jimmy\OneDrive\Desktop\Schedule-Generator\finalprojectgui\finalprojectgui\obj\Debug\finalprojectgui.csproj.CoreCompileInputs.cache
 C:\Users\jimmy\OneDrive\Desktop\Schedule-Generator\finalprojectgui\finalprojectgui\obj\Debug\finalprojectgui.exe
 C:\Users\jimmy\OneDrive\Desktop\Schedule-Generator\finalprojectgui\finalprojectgui\obj\Debug\finalprojectgui.pdb
+C:\Users\jimmy\Documents\Schedule-Generator\Schedule Generator\finalprojectgui\finalprojectgui\bin\Debug\finalprojectgui.exe.config
+C:\Users\jimmy\Documents\Schedule-Generator\Schedule Generator\finalprojectgui\finalprojectgui\bin\Debug\finalprojectgui.exe
+C:\Users\jimmy\Documents\Schedule-Generator\Schedule Generator\finalprojectgui\finalprojectgui\bin\Debug\finalprojectgui.pdb
+C:\Users\jimmy\Documents\Schedule-Generator\Schedule Generator\finalprojectgui\finalprojectgui\obj\Debug\finalprojectgui.csproj.AssemblyReference.cache
+C:\Users\jimmy\Documents\Schedule-Generator\Schedule Generator\finalprojectgui\finalprojectgui\obj\Debug\finalprojectgui.DashBoardPage.resources
+C:\Users\jimmy\Documents\Schedule-Generator\Schedule Generator\finalprojectgui\finalprojectgui\obj\Debug\finalprojectgui.EditAddTeacher.resources
+C:\Users\jimmy\Documents\Schedule-Generator\Schedule Generator\finalprojectgui\finalprojectgui\obj\Debug\finalprojectgui.LogInPage.resources
+C:\Users\jimmy\Documents\Schedule-Generator\Schedule Generator\finalprojectgui\finalprojectgui\obj\Debug\finalprojectgui.TeacherViewSchedule.resources
+C:\Users\jimmy\Documents\Schedule-Generator\Schedule Generator\finalprojectgui\finalprojectgui\obj\Debug\finalprojectgui.Properties.Resources.resources
+C:\Users\jimmy\Documents\Schedule-Generator\Schedule Generator\finalprojectgui\finalprojectgui\obj\Debug\finalprojectgui.csproj.GenerateResource.cache
+C:\Users\jimmy\Documents\Schedule-Generator\Schedule Generator\finalprojectgui\finalprojectgui\obj\Debug\finalprojectgui.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Documents\Schedule-Generator\Schedule Generator\finalprojectgui\finalprojectgui\obj\Debug\finalprojectgui.exe
+C:\Users\jimmy\Documents\Schedule-Generator\Schedule Generator\finalprojectgui\finalprojectgui\obj\Debug\finalprojectgui.pdb
