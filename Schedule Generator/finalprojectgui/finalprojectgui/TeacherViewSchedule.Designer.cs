@@ -137,6 +137,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.Dashboard);
             this.Name = "TeacherViewSchedule";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form3";
             this.Load += new System.EventHandler(this.Form3_Load);
             this.ResumeLayout(false);

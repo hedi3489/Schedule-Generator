@@ -150,6 +150,7 @@
             this.Controls.Add(this.listBox2);
             this.Controls.Add(this.panel1);
             this.Name = "EditAddTeacher";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "EditAddTeacher";
             this.Load += new System.EventHandler(this.EditAddTeacher_Load);
             this.ResumeLayout(false);
