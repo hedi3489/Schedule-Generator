@@ -13,13 +13,7 @@ namespace finalprojectgui
 {
     public partial class DashBoardPage : Form
     {
-        public DashBoardPage()
-        {
-            InitializeComponent();
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
-
-        }
+        public DashBoardPage() => InitializeComponent();
 
         private void button1_Click(object sender, EventArgs e)
         {
